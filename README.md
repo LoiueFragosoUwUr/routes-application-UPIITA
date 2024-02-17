@@ -8,7 +8,7 @@ As we can see there is an user graphical interface making it possible to interac
 <br />
 We just can make an unidirectional route, until the user decides that they want to close the application.
 First, we should choose our departure point on campus, which can be the buildings that compose the UPIITA campus and its classrooms, the courtyard, the cafeteria or the intern government building.
-<br />
+
 ![スクリーンショット (7)](https://github.com/LoiueFragosoUwUr/routes-application-UPIITA/assets/126754704/0815be4b-a3e8-471d-a4ac-268c7f15a260)
 
 
