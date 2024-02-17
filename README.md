@@ -1,12 +1,17 @@
 This project called "Routes appliction UPIITA" was developed in a class that looked on data structures with java.
 As we can see there is an user graphical interface making it possible to interact with the main functions of it：
 ![imagen 1](https://github.com/LoiueFragosoUwUr/routes-application-UPIITA/assets/126754704/06653524-3917-4ad4-88bd-c9a7976d683f)
+First, we should choose our departure point on campus, which can be the buildings that compose the UPIITA campus, the 
+![スクリーンショット (15)](https://github.com/LoiueFragosoUwUr/routes-application-UPIITA/assets/126754704/6717456e-c273-480d-9f8d-f525bca7a513)
+
+
+
 ![スクリ![imagen 2](https://github.com/LoiueFragosoUwUr/routes-application-UPIITA/assets/126754704/0399384b-7893-4aca-b6ac-3e8ed68cbc74)
 ーンショット (19)](https://github.com/LoiueFragosoUwUr/routes-application-UPIITA/assets/126754704/1e07c134-fc30-4555-a087-51e8508295c7)
 ![スクリーンショット (18)](https://github.com/LoiueFragosoUwUr/routes-application-UPIITA/assets/126754704/585ea4c8-0f8f-4a5e-acf0-8d8b0a6a28e7)
 ![スクリーンショット (17)](https://github.com/LoiueFragosoUwUr/routes-application-UPIITA/assets/126754704/0a2dd26b-7a9c-4abb-bc31-32324eb1618d)
 ![スクリーンショット (16)](https://github.com/LoiueFragosoUwUr/routes-application-UPIITA/assets/126754704/98e13987-c318-43b0-bb9a-cbcc224007ee)
-![スクリーンショット (15)](https://github.com/LoiueFragosoUwUr/routes-application-UPIITA/assets/126754704/6717456e-c273-480d-9f8d-f525bca7a513)
+
 ![スクリーンショット (14)](https://github.com/LoiueFragosoUwUr/routes-application-UPIITA/assets/126754704/a04b873e-de6d-4c3e-b617-f32d06ace09e)
 ![スクリーンショット (13)](https://github.com/LoiueFragosoUwUr/routes-application-UPIITA/assets/126754704/9b7e3a08-212f-455b-b497-1d3031635e53)
 ![スクリーンショット (12)](https://github.com/LoiueFragosoUwUr/routes-application-UPIITA/assets/126754704/07ca762a-4156-4508-8aa0-bacf14670e58)
