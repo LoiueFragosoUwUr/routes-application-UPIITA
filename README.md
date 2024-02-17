@@ -1,5 +1,5 @@
-This project called "Routes appliction UPIITA" was developed in a class that looked on data structures with java
-As we can see there is an user graphical interface making it possible to interact with the main functions of it
+This project called "Routes appliction UPIITA" was developed in a class that looked on data structures with java.
+As we can see there is an user graphical interface making it possible to interact with the main functions of it：
 ![imagen 1](https://github.com/LoiueFragosoUwUr/routes-application-UPIITA/assets/126754704/06653524-3917-4ad4-88bd-c9a7976d683f)
 ![スクリ![imagen 2](https://github.com/LoiueFragosoUwUr/routes-application-UPIITA/assets/126754704/0399384b-7893-4aca-b6ac-3e8ed68cbc74)
 ーンショット (19)](https://github.com/LoiueFragosoUwUr/routes-application-UPIITA/assets/126754704/1e07c134-fc30-4555-a087-51e8508295c7)
