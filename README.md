@@ -1,8 +1,8 @@
 # Routes app for UPIITA
 This project called "Routes appliction UPIITA" was developed in a class that looked on data structures with java.
 As we can see there is an user graphical interface making it possible to interact with the main functions of it：
+<img src="[https://your-image-url.type](https://github.com/LoiueFragosoUwUr/routes-application-UPIITA/assets/126754704/06653524-3917-4ad4-88bd-c9a7976d683f)" width="300">
 
-![imagen 1](https://github.com/LoiueFragosoUwUr/routes-application-UPIITA/assets/126754704/06653524-3917-4ad4-88bd-c9a7976d683f=250x250)
 <br />
 We just can make an unidirectional route, until the user decides that they want to close the application.
 First, we should choose our departure point on campus, which can be the buildings that compose the UPIITA campus and its classrooms, the courtyard, the cafeteria or the intern government building.
