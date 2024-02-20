@@ -12,7 +12,6 @@ First, we should choose our departure point on campus, which can be the building
 ![スクリーンショット (7)](https://github.com/LoiueFragosoUwUr/routes-application-UPIITA/assets/126754704/0815be4b-a3e8-471d-a4ac-268c7f15a260)
 
 
-<br />
 After selecting uour departure point the we will be asked if we agree with it.
 
 ![スクリ![imagen 2](https://github.com/LoiueFragosoUwUr/routes-application-UPIITA/assets/126754704/0399384b-7893-4aca-b6ac-3e8ed68cbc74)
